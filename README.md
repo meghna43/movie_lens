@@ -1,3 +1,2 @@
-# movie_lens
-#summer project for Second year of MCA
-#VESIT, Chembur, Mumbai
+Run the .pynb in jupyter notebook.
+Dataset used from https://grouplens.org/datasets/movielens/
